@@ -1,2 +1,2 @@
 # SQL-Scripts
-Useful scripts for SQL
+Useful SQL scripts for managing data
